@@ -30,7 +30,7 @@ public class CalculatorBineryMult {
 	     
 		
 	    if(operator.equals==("/")) {
-	    	
+	    	System.out.println("sad");
 	    }
 
 	}
